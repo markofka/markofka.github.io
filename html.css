@@ -1,0 +1,53 @@
+@font-face{
+    font-family: ObelixPro;
+    src: url(font/ObelixPro.ttf)
+}
+body {
+background-color: #fff;
+color: #000;
+font-family: sans-serif;
+font-size: 1.2em;
+line-height: 1.8em;
+background-image: url(fon/html5-logo.png),  url(fon/fon-bg.png);
+background-position: right bottom, center;
+background-repeat: no-repeat, repeat;
+}
+h1 {
+color: #0066ae;
+background: repeating-linear-gradient(#89ceff, #e1f3ff, #89ceff);
+text-align: center;
+font-family:ObelixPro ;
+font-size: 1.2em;
+letter-spacing: 1.7em;
+line-height: 2em
+}
+h2 {
+    color: #0066ae;
+text-shadow: 0.1em 0.1em 0 #ccc
+}
+p{
+text-align: justify
+}
+i{
+color: #999;
+font-family: serif
+}
+sup{
+color: #999
+}
+b{
+color: #999
+}
+mark{
+background-color: #ccc;
+font-family: monospace
+}
+h4{
+    color: #0066ae
+}
+blockquote{
+    color: #0066ae
+}
+img{
+background-position: 
+}
