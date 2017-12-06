@@ -1,0 +1,38 @@
+﻿body{
+color: #000;
+background-color: white;
+}
+header{
+    background :linear-gradient(#99a8bf,#696c8b);
+overflow: hidden;
+line-height: 5px 5px ;
+padding: 1	px;
+}
+ img{
+    float: left;
+}
+header h1 {
+color: white;
+float: right;
+margin: 0;
+font-size: 1.8em;
+padding: 10px;
+text-align: right;
+}
+main nav{
+background-color: #666;
+border-top: 1px solid white; 
+border-bottom: 1px solid black;
+font-weight: bold; 
+
+
+
+}
+
+
+
+
+
+
+
+
